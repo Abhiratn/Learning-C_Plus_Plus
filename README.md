@@ -23,14 +23,6 @@ Each folder contains numbered files that should be studied in order. Make sure t
 1. Clone or download this repository to your local machine.
 2. Open the corresponding C++ files in each folder using your preferred integrated development environment (IDE) or text editor.
 
-## Emojis Guide
-
-To add a touch of fun to your learning journey, we've included emojis in various sections:
-
-- 🚀: Use this emoji to mark exciting concepts and important tips.
-- 📝: Indicates examples that are crucial for understanding the topic.
-- 🛠️: Points out practical exercises and hands-on coding challenges.
-
 Feel free to contribute to this repository by adding new examples, fixing errors, or suggesting improvements. We believe that learning should be a collaborative and enjoyable process.
 
 Happy coding! 🎉👩‍💻👨‍💻
